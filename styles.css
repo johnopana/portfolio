@@ -109,3 +109,6 @@ nav ul {
     font-size: 2em;
     color: black;
 }
+.logo h1{
+    justify-content: center;
+}
