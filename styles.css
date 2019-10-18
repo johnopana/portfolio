@@ -1,3 +1,7 @@
+body {
+    height: 100%;
+    width: 100%;
+}
 .logo {
     float: left;
     color:5px solid black;
@@ -45,8 +49,7 @@ li a:hover{
     background-color:white;
 }
 .about{
-text-align: center;
-width: 50%;
+    text-align: center;
 }
 #last{ display: flex;
     justify-content: center;
@@ -112,3 +115,76 @@ nav ul {
 .logo h1{
     justify-content: center;
 }
+.blog p{
+    background-color:solid purple;
+    color: black;
+    border-radius: 30px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.about{
+    background-color:white;
+    width: 1000px;
+    border: 15px solid purple;
+    padding: 100px;
+    margin-left:300px;
+    text-align: center;
+    font-size: 30px;
+    margin-top:50px;
+    font-size: 2em;
+  }
+  .para2{
+    background-color:white;
+    width: 1000px;
+    border: 15px solid purple;
+    padding: 100px;
+    margin-left:300px;
+    text-align: center;
+    font-size: 30px;
+    margin-top:50px;
+    font-size: 2em;
+  }
+  
+  .container{
+    background-color:white;
+    width: 1000px;
+    border: 15px solid purple;
+    padding: 100px;
+    margin-left:300px;
+    text-align: center;
+    font-size: 30px;
+    margin-top:50px;
+    font-size: 2em;
+  }
+  .blog{
+    background-color:white;
+    width: 1000px;
+    border: 15px solid purple;
+    padding: 100px;
+    margin-left:300px;
+    text-align: center;
+    font-size: 30px;
+    margin-top:50px;
+    font-size: 2em;
+  }
+  .project{
+    background-color:white;
+    width: 1000px;
+    border: 15px solid purple;
+    padding: 100px;
+    margin-left:300px;
+    text-align: center;
+    font-size: 30px;
+    margin-top:50px;
+    font-size: 2em;
+  }
+  
+  
+
+
+  
+
+  
