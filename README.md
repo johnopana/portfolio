@@ -21,6 +21,18 @@
   -johnopana2016@gmail.com
   -slack me(moringa-school) johnopana.
 
+  ##screenshort
+
+  <img src="images/joopala.png">
+
+
+  ##livelink
+
+ You can view the live application by following the link https://johnopana.github.io/portfolio/
+
+
+
+
   ##License
 
   MIT license
