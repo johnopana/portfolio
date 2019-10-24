@@ -2,6 +2,7 @@
 
 ## Author's Name
   JOHN OPANA
+<<<<<<< HEAD
   ## Description
   This is an individual portfolio page showing all the projects i have personally done and deployed.
 
@@ -40,3 +41,5 @@
   permision-you are free to  have a look and  make comment , but please feel free to reach me at anytime and day.
 
   copyright johnopana 2019
+=======
+>>>>>>> 767849e3f43929b741037f4453a37b898f65dc43
